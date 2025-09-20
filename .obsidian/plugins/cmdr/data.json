@@ -1,0 +1,80 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
+      "icon": "separator-horizontal",
+      "name": "Note Refactor: H1",
+      "mode": "any",
+      "color": "#a6adc8"
+    },
+    {
+      "id": "note-refactor-obsidian:app:extract-selection-first-line",
+      "icon": "separator-horizontal",
+      "name": "Note Refactor: Selection",
+      "mode": "any",
+      "color": "#a6adc8"
+    },
+    {
+      "id": "obsidian-plugin-toc:create-toc",
+      "icon": "list",
+      "name": "Create table of contents",
+      "mode": "any",
+      "color": "#a6adc8"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "canvas:new-file",
+      "icon": "lucide-layout-dashboard",
+      "name": "New canvas",
+      "mode": "any",
+      "color": "#99a8c8"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+      "icon": "pen-tool",
+      "name": "New drawing",
+      "mode": "any",
+      "color": "#99a8c8"
+    }
+  ],
+  "hide": {
+    "statusbar": [
+      "obsidian-spaced-repetition",
+      "editor-status",
+      "workspaces-plus",
+      "backlink",
+      "editing-toolbar"
+    ],
+    "leftRibbon": [
+      "Review flashcards",
+      "Create new canvas",
+      "Open command palette",
+      "Create new drawing",
+      "BRAT",
+      "Open graph view",
+      "Open quick switcher"
+    ]
+  },
+  "spacing": "5",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

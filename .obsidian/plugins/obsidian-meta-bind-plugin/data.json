@@ -1,0 +1,57 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "DD-MM-YYYY",
+  "firstWeekday": {
+    "index": 0,
+    "name": "Sunday",
+    "shortName": "Su"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "Fold",
+      "icon": "",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "fold-more",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "editor:fold-more"
+        }
+      ]
+    },
+    {
+      "label": "Unfold",
+      "icon": "",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "fold-less",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "editor:fold-less"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

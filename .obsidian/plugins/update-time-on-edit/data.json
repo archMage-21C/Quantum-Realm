@@ -1,0 +1,38 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "last-updated",
+  "headerCreated": "date-created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "Journal/Daily Logs",
+    "Chats",
+    "_Patterns",
+    "_Templates"
+  ],
+  "ignoreCreatedFolder": [
+    "_Templates",
+    "Homepage",
+    "_Patterns",
+    "Journal/Daily Logs"
+  ],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "Homepage/Sanctum.md": "a0a6dd65b880fff70b19484d0fb12a74aa2e155e4331b5db9021577e015c14cd",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++.md": "f677c8c711251da4f9a77d9479cda92a89f02630a8daceba3af2dc8298f28f6a",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Introduction to C.md": "0ee14c0a4ebe3f3c8efb5c358cd8a3548c1d68089ee50bc104bef9806e3a3515",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Data Types & Operators in C.md": "23cd301c8e49d6dfcc72967d6f637aeebf92b926fc04f72068358be9f3efd62d",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Storage Classes & Scopes in C.md": "97c93a67735642474229def5e70be367c903264c37816c9dbee2d7abf8e43126",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Conditionals & Loops in C.md": "7e9c3227582f2ea0f84fb99146964bfa5e0a0e403082199dcfaa9cbedac1a583",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Functions in C.md": "f46332247bc3572ff50b3de05b4516f707325d2ac96d6111b34f371046288074",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Pointers in C.md": "d6ba4ad7e6199559a7717ceb2d77b196c06758255deb7cdd9e0d68f61a9a21d6",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Strings in C.md": "9678411bdffb46556beec371540d4ba220a379bd3f140c8fd35f8e75f6bff1a9",
+    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Dynamic Memory Allocation.md": "a61bc06c04d6b9108e705194e1777f41a6cccacf495909004762a57a4e1eab07",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md": "4e1290158de71baace2261fa94fa1117a3b19598ccc54a04f9a53fd6def07f80",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md": "12f74d847b86d1fb03d2eb8f371b796e3a0b7ecc0b83a84fc56311aac9a57532",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md": "80de91ea0b14384f227e6d706eecf07555e9d6a9383fe85d8f6195af794ad475",
+    "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md": "e5fa8928ae3a73d6f1781efb691d0a1d72df3b36f6ebda408d5ee55b78cf555f",
+    "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md": "2d6ae08f3ea543a9ca82fc1f4a5bddbc3b4f46c4b2082a76b3c4650cf897a970",
+    "README.md": "c8ea3424936f9cd85872fc6e0b56b46dda96cf28cfdb714c5c9e9b7dce8d28c1"
+  }
+}

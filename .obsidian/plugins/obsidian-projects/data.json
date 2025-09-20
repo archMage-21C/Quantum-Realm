@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [
+        "_Templates/record-knowledge-template.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Knowledge Vault/Project Archive/Swarm Robotics & Biomimetic Design",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "713ffde2-f9f9-4876-8daa-6df64454ba44",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e12b301a-1da5-497e-a163-6562a7a95941",
+      "name": "Swarm Robotics & Biomimetic Design"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Knowledge Vault/Project Archive/Unified Knowledge Base",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "03d4ee02-88ee-4fd3-9c4e-78f4a1742685",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "9646e173-146b-49ba-b678-07e77acb9a5f",
+      "name": "Unified Knowledge Base"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "sunday"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

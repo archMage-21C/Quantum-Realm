@@ -1,0 +1,22 @@
+{
+  "pluginList": [
+    "chasebank87/mesh-ai"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "chasebank87/mesh-ai",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false
+}

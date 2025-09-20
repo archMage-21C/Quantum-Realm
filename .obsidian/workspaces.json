@@ -1,0 +1,232 @@
+{
+  "workspaces": {
+    "Master Layout": {
+      "main": {
+        "id": "a9aedcbbbb15fa29",
+        "type": "split",
+        "children": [
+          {
+            "id": "953bebd71541874c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55dea55bbf5c77f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Homepage/Sanctum.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1eeeb798a370e6b4",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a61f6bfc54b90d9",
+            "type": "tabs",
+            "dimension": 57.68292682926829,
+            "children": [
+              {
+                "id": "3922a274ebc29953",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "bed4ecb7cf52b443",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0cd1d000f076883f",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1d440cf94058368a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "60537e76644c049c",
+            "type": "tabs",
+            "dimension": 42.3170731707317,
+            "children": [
+              {
+                "id": "9f0b12ffdc470a03",
+                "type": "leaf",
+                "state": {
+                  "type": "journal-calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "76246d9dcc35ecfd",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6f61b9414a2c0849",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ae03cfb19b721209",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "abdcf2c2f5ea80d6",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 293
+      },
+      "right": {
+        "id": "3498c3102929cd81",
+        "type": "split",
+        "children": [
+          {
+            "id": "3c98257277c8f15b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e7ef7889aad3d05",
+                "type": "leaf",
+                "state": {
+                  "type": "chat-view",
+                  "state": {
+                    "file": "Chats/hopfield_network_summary.md"
+                  }
+                }
+              },
+              {
+                "id": "a09e695c9fadb9ab",
+                "type": "leaf",
+                "state": {
+                  "type": "mesh-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a369418fcb65e3e5",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 489,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "dashboard-navigator:Open dashboard navigator": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-importer:Open Importer": false,
+          "templater-obsidian:Templater": false,
+          "janitor:Janitor: scan vault": false,
+          "obsidian42-brat:BRAT": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "obsidian-projects:Open projects": false,
+          "audio-recorder:Start/stop recording": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-spaced-repetition:Review flashcards": false,
+          "etymology-lookup:Etymology Lookup": false,
+          "publish:Publish changes...": false,
+          "graph:Open graph view": false,
+          "smart-second-brain:Open S2B Chat": false,
+          "mesh-ai:Mesh AI Integration": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "9f0b12ffdc470a03",
+      "mtime": "2024-09-14T21:38:14+05:30",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "_Templates",
+          "Journal",
+          "Knowledge Vault",
+          "Knowledge Vault/Area of Knowledge",
+          "Knowledge Vault/Project Archive",
+          "Knowledge Vault/Resource Vault",
+          "Workspace",
+          "Workspace/Manuscripts",
+          "Workspace/Mood Boards",
+          "Workspace/Technical Drafts"
+        ]
+      }
+    }
+  },
+  "active": "Master Layout"
+}

@@ -1,0 +1,90 @@
+:root {
+  /* ================================ Colors ================================ */
+  --red: #e22c3c;
+  --red-orange: #e9404b;
+  --orange: #ee6748;
+  --amber: #fa9f50;
+  --yellow: #ffd85e;
+  --lime: #97e768;
+  --mint: #52eea3;
+  --cyan: #51e1e9;
+  --cool-cyan: #43cfea;
+  --light-blue: #54b6f8;
+  --blue: #437cf3;
+  --blue-violet: #6f51f4;
+  --violet: #9446f8;
+  --purple: #c952ed;
+  --magenta: #e54f9b;
+  --hot-red: #e3365e;
+  --cool-gray: #515768;
+
+  --default-text-color: #d0d0d0;
+  --highlight: #fff;
+  --shadow: #0b0c2c;
+}
+
+/* Light Theme Specific Properties */
+.theme-light {
+  --contrast-color: var(--shadow);
+  --default-text-color: var(--shadow);
+  /* Darker Versions of Bright Colors for Light Theme */
+  --yellow: color-mix(in srgb, #ffd85e 90%, var(--shadow));
+  --lime: color-mix(in srgb, #97e768 90%, var(--shadow));
+  --mint: color-mix(in srgb, #52eea3 85%, var(--shadow));
+  --cyan: color-mix(in srgb, #51e1e9 85%, var(--shadow));
+  --cool-cyan: color-mix(in srgb, #43cfea 85%, var(--shadow));
+  --light-blue: color-mix(in srgb, #54b6f8 90%, var(--shadow));
+}
+
+/* Dark Theme Specific Properties */
+.theme-dark {
+  --contrast-color: var(--highlight);
+}
+
+/*
+================================================================================
+  Solid Color Cycling for Each Sidebar Item 🎨
+  This applies a unique, solid color to each file/folder in a repeating sequence.
+================================================================================
+*/
+
+/* The common selector for all folder and file titles inside a numbered item */
+.tree-item:nth-child(16n + 1) .nav-folder-title, .tree-item:nth-child(16n + 1) .nav-file-title { color: var(--red); }
+.tree-item:nth-child(16n + 2) .nav-folder-title, .tree-item:nth-child(16n + 2) .nav-file-title { color: var(--red-orange); }
+.tree-item:nth-child(16n + 3) .nav-folder-title, .tree-item:nth-child(16n + 3) .nav-file-title { color: var(--orange); }
+.tree-item:nth-child(16n + 4) .nav-folder-title, .tree-item:nth-child(16n + 4) .nav-file-title { color: var(--amber); }
+.tree-item:nth-child(16n + 5) .nav-folder-title, .tree-item:nth-child(16n + 5) .nav-file-title { color: var(--yellow); }
+.tree-item:nth-child(16n + 6) .nav-folder-title, .tree-item:nth-child(16n + 6) .nav-file-title { color: var(--lime); }
+.tree-item:nth-child(16n + 7) .nav-folder-title, .tree-item:nth-child(16n + 7) .nav-file-title { color: var(--mint); }
+.tree-item:nth-child(16n + 8) .nav-folder-title, .tree-item:nth-child(16n + 8) .nav-file-title { color: var(--cyan); }
+.tree-item:nth-child(16n + 9) .nav-folder-title, .tree-item:nth-child(16n + 9) .nav-file-title { color: var(--cool-cyan); }
+.tree-item:nth-child(16n + 10) .nav-folder-title, .tree-item:nth-child(16n + 10) .nav-file-title { color: var(--light-blue); }
+.tree-item:nth-child(16n + 11) .nav-folder-title, .tree-item:nth-child(16n + 11) .nav-file-title { color: var(--blue); }
+.tree-item:nth-child(16n + 12) .nav-folder-title, .tree-item:nth-child(16n + 12) .nav-file-title { color: var(--blue-violet); }
+.tree-item:nth-child(16n + 13) .nav-folder-title, .tree-item:nth-child(16n + 13) .nav-file-title { color: var(--violet); }
+.tree-item:nth-child(16n + 14) .nav-folder-title, .tree-item:nth-child(16n + 14) .nav-file-title { color: var(--purple); }
+.tree-item:nth-child(16n + 15) .nav-folder-title, .tree-item:nth-child(16n + 15) .nav-file-title { color: var(--magenta); }
+.tree-item:nth-child(16n + 16) .nav-folder-title, .tree-item:nth-child(16n + 16) .nav-file-title { color: var(--hot-red); }
+
+/* Universal styling for all titles */
+.nav-folder-title,
+.nav-file-title {
+  font-weight: bold;
+}
+
+/* Add a simple hover effect to slightly brighten the text */
+.nav-folder-title:hover,
+.nav-file-title:hover {
+  filter: brightness(1.2);
+}
+
+/* Narrower Padding on Desktop*/
+@media only screen and (min-width: 768px) {
+  .nav-file-title,
+  .nav-folder-title {
+    padding-top: 3px !important;
+    padding-right: 5px !important;
+    padding-bottom: 2px !important;
+    padding-left: 15px;
+  }
+}

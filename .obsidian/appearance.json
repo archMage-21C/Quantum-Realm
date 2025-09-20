@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "General Tweaks",
+    "Image Alignment",
+    "Notebook Backgrounds",
+    "Zettelkasten",
+    "Admonitions"
+  ],
+  "cssTheme": "Material Gruvbox",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono",
+  "baseFontSize": 20
+}

@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxWrench",
+      "LiSettings",
+      "LiFolders",
+      "LiCircuitBoard",
+      "LiRadius"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false,
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
+  },
+  "Workspace": "LiBrainCircuit",
+  "_Templates": "LiLayoutTemplate",
+  "Homepage": "BoBxHome",
+  "Knowledge Vault": "LiVault",
+  "Knowledge Vault/Area of Knowledge": "LiBrainCog",
+  "Knowledge Vault/Resource Vault": "LiFolders",
+  "Homepage/Sanctum.md": "LiLayoutGrid",
+  "Library": "LiLibrary",
+  "Workspace/Project Archive": "LiWorkflow",
+  "Workspace/Technical Drafts": "LiSettings",
+  "Workspace/Workbench": "BoBxWrench"
+}
