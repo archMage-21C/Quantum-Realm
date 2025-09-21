@@ -3487,6 +3487,12 @@ encounters
 emitter
 essence
 emitted
+export
+editing
+etymology
+etymological
+emphasis
+edit
 plugin
 parsed
 palette
@@ -6741,6 +6747,10 @@ pathlength
 postulate
 prisms
 paraxial
+pull
+publications
+prettifier
+passionate
 tags
 to
 the
@@ -10046,6 +10056,13 @@ tan
 telescopes
 terminals
 testbenches
+typing
+toolbar
+themes
+tweaks
+tips
+tracker
+templater
 Switch
 Saving
 Started
@@ -13515,6 +13532,9 @@ SxT
 Snell
 Splitters
 Spherical
+Sanctum
+Scholarly
+Sync
 EXCALIDRAW
 Excalidraw
 Ever
@@ -16855,6 +16875,10 @@ EgUmK
 Electrodynamics
 Elaboration
 Equality
+Enjoy
+Export
+Easily
+Embed
 VIEW
 VISUAL
 Valleys
@@ -23680,6 +23704,9 @@ interferometer
 inhomogeneous
 indices
 instruments
+introduction
+icons
+importer
 MORE
 Mistakes
 Made
@@ -26886,6 +26913,7 @@ Maxwell
 Mirrors
 Mirror
 Mtotal
+Mathematica
 OPTIONS
 Obsidian
 Original
@@ -36251,6 +36279,8 @@ owRV
 oqXt
 opPk
 ovs
+ongoing
+orphaned
 document
 decompress
 data
@@ -39843,6 +39873,8 @@ denser
 dense
 described
 detector
+download
+drafts
 You
 YouTube
 YYYY
@@ -46821,6 +46853,13 @@ concave
 curvature
 convex
 cavities
+cloned
+canvas
+customizable
+clickable
+cmdr
+charts
+completr
 Drawing
 Decompress
 Done
@@ -53215,6 +53254,8 @@ wHp
 wavelength
 waveguides
 waveguide
+welcome
+wrangler
 file
 font
 ffff
@@ -56520,6 +56561,10 @@ fJL
 formalism
 focal
 fpga
+fascinating
+forked
+foundations
+folders
 For
 Files
 File
@@ -59908,6 +59953,9 @@ FMB
 FeiO
 Faraday
 Fermat
+Folder
+Fork
+Feel
 settings
 status
 start
@@ -63559,6 +63607,10 @@ splitter
 splits
 splitters
 sines
+sure
+shortcuts
+symbolic
+sync
 under
 used
 unimpressive
@@ -72937,6 +72989,7 @@ WLCg
 WQH
 WtGJ
 Waveguides
+Welcome
 Lorem
 List
 LaTeX
@@ -76166,6 +76219,7 @@ Lenses
 Lagrange
 Lens
 Lab
+Literature
 Ipsum
 Iconize
 It
@@ -79328,6 +79382,7 @@ Ihda
 IrQWed
 Ifz
 Inout
+Improve
 Backlog
 Best
 Biology
@@ -82606,6 +82661,7 @@ BphJ
 Bbt
 BWVVmf
 BvR
+Beautify
 Using
 URL
 Update
@@ -88867,6 +88923,7 @@ nVz
 nhz
 niu
 nejO
+nldates
 The
 Toolbar
 Tracker
@@ -92151,6 +92208,9 @@ Travels
 Tracing
 Thin
 Testbench
+Theoretical
+Templates
+Technical
 Notes
 Navigator
 Natural
@@ -98505,6 +98565,12 @@ lzU
 lMHA
 lens
 laser
+literature
+layouts
+languagetool
+latex
+linter
+lint
 Calendar
 Commander
 Completr
@@ -102190,6 +102256,10 @@ Cbva
 Cavity
 Cascading
 Concatenation
+Clone
+Contributions
+Click
+Customize
 Prettifer
 Prettifier
 Paste
@@ -105821,6 +105891,9 @@ Postulate
 Photonic
 Photon
 Postulates
+PQC
+Pull
+Photonics
 journal
 just
 js
@@ -109038,6 +109111,7 @@ jLgwi
 jNdO
 jvg
 jNXD
+janitor
 Reading
 Recent
 Refactor
@@ -112598,6 +112672,9 @@ Refraction
 Resonators
 Rays
 Refractive
+Realm
+Repo
+README
 Groups
 Guided
 Global
@@ -115690,6 +115767,8 @@ GWN
 GSn
 Graded
 GRIN
+Getting
+Grammar
 Assistant
 Additional
 Almost
@@ -119096,6 +119175,9 @@ ANQp
 ABCD
 Answers
 Answer
+Assets
+Archive
+Archived
 am
 assistant
 answer
@@ -122776,6 +122858,9 @@ atom
 adequately
 axis
 approximated
+admonition
+admonitions
+autocompletion
 your
 you
 yet
@@ -129063,6 +129148,8 @@ hfBj
 hbS
 hvvs
 hgnF
+houses
+homepage
 query
 question
 quickly
@@ -135722,6 +135809,8 @@ refracted
 remember
 radial
 radius
+repo
+review
 various
 very
 ve
@@ -142459,6 +142548,7 @@ bPk
 bMb
 boundary
 beam
+brat
 knowledge
 kind
 known
@@ -148459,6 +148549,7 @@ gng
 gAbd
 gYP
 geometrical
+github
 John
 JavaScript
 Just
@@ -167291,6 +167382,7 @@ QUp
 Qnx
 QED
 Question
+Quickly
 Zero
 Zen
 Zoom

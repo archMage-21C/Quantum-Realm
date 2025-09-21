@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39195da567e6ee48",
+        "id": "3a992fa63c2e8182",
         "type": "tabs",
         "children": [
           {
-            "id": "967e00a674e15284",
+            "id": "ba84f11610135407",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,8 +174,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -188,14 +188,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "publish:Publish changes...": false,
       "templates:Insert template": true,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -205,52 +203,25 @@
       "etymology-lookup:Etymology Lookup": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "floating": {
-    "id": "4185b02a3bb56e21",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c4e0ddeb6c8bfd7d",
-        "type": "window",
-        "children": [
-          {
-            "id": "5951b32688e54332",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11be65a1df0f0719",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/kevinmkchin/Obsidian-GitHub-Sync/blob/main/README.md",
-                    "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian-GitHub-Sync/README.md at main · kevinmkchin/Obsidian-GitHub-Sync · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 140,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6722e897fff5e663",
+  "active": "ba84f11610135407",
   "lastOpenFiles": [
-    "Homepage/Sanctum.md",
     "README.md",
+    "Homepage/Sanctum.md",
+    "Homepage/Assets/open-obsidian-vault.gif",
+    "Homepage/Assets/download-github-desktop.gif",
+    "Homepage/Assets/download-obsidian.gif",
+    "Homepage/Assets/cloning-repo.gif",
+    "Homepage/Assets/Screen Recording 2025-09-21 184831.gif",
+    "Homepage/Assets/Screen Recording 2025-09-21 175958.gif",
+    "Homepage/Assets/Screen Recording 2025-09-21 175317.gif",
+    "Homepage/Assets/cloning-repo - Made with Clipchamp.gif",
+    "Homepage/Assets/cloning-repo (4).gif",
+    "Homepage/Assets/cloning-repo (3).gif",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
@@ -258,12 +229,6 @@
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md",
     "Workspace/Workbench/FPGA Architecture & Programming/null.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/nand_gate.png",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/xor_gate.png",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/nor_gate.png",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/not_gate.png",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/and_gate.png",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/or_gate.png",
     "or_gatebmp..md",
     "or_gatebmp.md",
     "Workspace/Workbench/FPGA Architecture & Programming/Resources/xor_gatebmp",
@@ -277,7 +242,6 @@
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment - 1.md",
     "Workspace/Workbench/FPGA Architecture & Programming",
     "_Templates/record-knowledge-template.md",
-    "Homepage/Assets/89875190_p0_master1200.jpg",
     "Knowledge Vault/Resource Vault/Report on the Five Most Important Worldwide Economic Failures.md",
     "Knowledge Vault/Project Archive/Unified Knowledge Base/UI-UX Study.md",
     "Knowledge Vault/Project Archive/Swarm Robotics & Biomimetic Design/Knowledge Map.md",

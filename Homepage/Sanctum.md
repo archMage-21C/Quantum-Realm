@@ -1,7 +1,6 @@
 ---
 banner: "![[89875190_p0_master1200.jpg]]"
-last-updated: 2025-09-20T19:39
-banner_y: 0.5
+last-updated: 2025-09-21T18:55
 ---
 # :LiVault: Knowledge Index
 ---
