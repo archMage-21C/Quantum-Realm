@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3a992fa63c2e8182",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ba84f11610135407",
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich"
+            }
+          },
+          {
+            "id": "8df87b8a16d8c381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage/Sanctum.md",
-                "mode": "preview",
+                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sanctum"
+              "title": "The Wave Equation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +221,32 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ba84f11610135407",
+  "active": "8df87b8a16d8c381",
   "lastOpenFiles": [
-    "README.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md",
+    "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/null.md",
+    "Workspace/Workbench/FPGA Architecture & Programming",
+    "Workspace/Workbench",
+    "Workspace/Technical Drafts",
+    "Workspace/Project Archive",
+    "Workspace",
+    "Library/Research Papers",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
     "Homepage/Sanctum.md",
+    "README.md",
     "Homepage/Assets/open-obsidian-vault.gif",
     "Homepage/Assets/download-github-desktop.gif",
     "Homepage/Assets/download-obsidian.gif",
@@ -224,7 +259,6 @@
     "Homepage/Assets/cloning-repo (3).gif",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md",
     "Workspace/Workbench/FPGA Architecture & Programming/null.md",
@@ -232,29 +266,9 @@
     "or_gatebmp..md",
     "or_gatebmp.md",
     "Workspace/Workbench/FPGA Architecture & Programming/Resources/xor_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/or_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/not_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/nor_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/nand_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/and_gatebmp",
-    "or_gatebmp",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment - 1.md",
-    "Workspace/Workbench/FPGA Architecture & Programming",
     "_Templates/record-knowledge-template.md",
     "Knowledge Vault/Resource Vault/Report on the Five Most Important Worldwide Economic Failures.md",
-    "Knowledge Vault/Project Archive/Unified Knowledge Base/UI-UX Study.md",
-    "Knowledge Vault/Project Archive/Swarm Robotics & Biomimetic Design/Knowledge Map.md",
-    "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Artificial Intelligence/Logic & Reasoning/index-temp.md",
-    "Workspace/Technical Drafts/Robotics.canvas",
-    "Knowledge Vault/Resource Vault/GATE CSE PYQs.md",
-    "Knowledge Vault/Resource Vault/GATE CSE Active Recalls.md",
-    "Knowledge Vault/Project Archive/Knowledge Map.md",
-    "_Templates/book-summary-template.md",
-    "Journal/Daily Logs/2025-02-20.md",
-    "Journal/Daily Logs/2025-02-17.md",
-    "Journal/Daily Logs/2025-02-16.md",
-    "Chats/New Chat.md",
-    "Journal/Daily Logs/2024-09-15.md"
+    "Workspace/Technical Drafts/Robotics.canvas"
   ]
 }

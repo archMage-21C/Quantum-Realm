@@ -3493,6 +3493,10 @@ etymology
 etymological
 emphasis
 edit
+electric
+everywhere
+equate
+evolves
 plugin
 parsed
 palette
@@ -6751,6 +6755,9 @@ pull
 publications
 prettifier
 passionate
+propagates
+pulse
+precisely
 tags
 to
 the
@@ -10063,6 +10070,11 @@ tweaks
 tips
 tracker
 templater
+treats
+timescale
+transverse
+taut
+tension
 Switch
 Saving
 Started
@@ -13535,6 +13547,8 @@ Spherical
 Sanctum
 Scholarly
 Sync
+Saleh
+Sons
 EXCALIDRAW
 Excalidraw
 Ever
@@ -20222,6 +20236,7 @@ VlPw
 VOk
 VvAO
 VxU
+Vibrating
 in
 info
 is
@@ -23707,6 +23722,8 @@ instruments
 introduction
 icons
 importer
+isotropic
+infinitesimally
 MORE
 Mistakes
 Made
@@ -33317,6 +33334,9 @@ mirrors
 magnification
 mirror
 meant
+magnetic
+measurable
+mass
 of
 obsidian
 often
@@ -36281,6 +36301,7 @@ opPk
 ovs
 ongoing
 orphaned
+origin
 document
 decompress
 data
@@ -39875,6 +39896,7 @@ described
 detector
 download
 drafts
+disturbance
 You
 YouTube
 YYYY
@@ -46860,6 +46882,7 @@ clickable
 cmdr
 charts
 completr
+certainly
 Drawing
 Decompress
 Done
@@ -53256,6 +53279,8 @@ waveguides
 waveguide
 welcome
 wrangler
+wavefunction
+wavelike
 file
 font
 ffff
@@ -56565,6 +56590,9 @@ fascinating
 forked
 foundations
 folders
+founded
+femtoseconds
+fringes
 For
 Files
 File
@@ -59956,6 +59984,8 @@ Fermat
 Folder
 Fork
 Feel
+Formalism
+Forces
 settings
 status
 start
@@ -63611,6 +63641,8 @@ sure
 shortcuts
 symbolic
 sync
+slope
+standing
 under
 used
 unimpressive
@@ -72990,6 +73022,8 @@ WQH
 WtGJ
 Waveguides
 Welcome
+Wave
+Wiley
 Lorem
 List
 LaTeX
@@ -79383,6 +79417,9 @@ IrQWed
 Ifz
 Inout
 Improve
+Intuition
+Intensity
+Inc
 Backlog
 Best
 Biology
@@ -88924,6 +88961,7 @@ nhz
 niu
 nejO
 nldates
+net
 The
 Toolbar
 Tracker
@@ -92211,6 +92249,10 @@ Testbench
 Theoretical
 Templates
 Technical
+Think
+Teich
+Tsin
+Ttan
 Notes
 Navigator
 Natural
@@ -95248,6 +95290,7 @@ NOJ
 NmA
 NmPr
 NxK
+Newtons
 ll
 language
 looking
@@ -102260,6 +102303,7 @@ Clone
 Contributions
 Click
 Customize
+Curvature
 Prettifer
 Prettifier
 Paste
@@ -112675,6 +112719,7 @@ Refractive
 Realm
 Repo
 README
+Replacing
 Groups
 Guided
 Global
@@ -135811,6 +135856,7 @@ radial
 radius
 repo
 review
+rearranging
 various
 very
 ve
@@ -139057,6 +139103,8 @@ vYwf
 vKhV
 vrFdivQ
 vRdo
+vacuum
+vibrations
 blogs
 base
 brain
@@ -142549,6 +142597,7 @@ bMb
 boundary
 beam
 brat
+bedrock
 knowledge
 kind
 known

@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "The Wave Equation",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md"
+    },
+    {
+      "basename": "Postulates of Ray Optics",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md"
+    },
+    {
+      "basename": "Postulates of Wave Optics",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md"
+    },
+    {
+      "basename": "Temporal & Spacial Coherence",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md"
+    },
+    {
+      "basename": "Michelson's Interferometer",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md"
+    },
+    {
+      "basename": "Young's Double Slit Experiment",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md"
+    },
+    {
+      "basename": "Single Slit Diffraction",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md"
+    },
+    {
+      "basename": "Interference of Light",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md"
+    },
+    {
+      "basename": "The Principle of Superposition",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md"
+    },
+    {
+      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
+      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
+    },
+    {
+      "basename": "Relation between Ray & Wave Optics",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md"
+    },
+    {
+      "basename": "Paraxial Waves",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md"
+    },
+    {
+      "basename": "Complex Representation of Wave Equation",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md"
+    },
+    {
+      "basename": "Elementary Waves",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md"
+    },
+    {
       "basename": "Sanctum",
       "path": "Homepage/Sanctum.md"
     },
@@ -13,10 +69,6 @@
       "path": "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md"
     },
     {
-      "basename": "Postulates of Ray Optics",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md"
-    },
-    {
       "basename": "Overview of Ray Optics",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md"
     },
@@ -27,10 +79,6 @@
     {
       "basename": "Matrix Optics",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md"
-    },
-    {
-      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
-      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
     },
     {
       "basename": "record-knowledge-template",

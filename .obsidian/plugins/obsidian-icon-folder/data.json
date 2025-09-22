@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDraftingCompass",
+      "LiArchive",
+      "LiFolder",
       "BoBxWrench",
-      "LiSettings",
-      "LiFolders",
-      "LiCircuitBoard",
-      "LiRadius"
+      "LiSettings"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "Workspace": "LiBrainCircuit",
+  "Workspace": "LiFolder",
   "_Templates": "LiLayoutTemplate",
   "Homepage": "BoBxHome",
   "Knowledge Vault": "LiVault",
@@ -42,7 +42,7 @@
   "Knowledge Vault/Resource Vault": "LiFolders",
   "Homepage/Sanctum.md": "LiLayoutGrid",
   "Library": "LiLibrary",
-  "Workspace/Project Archive": "LiWorkflow",
-  "Workspace/Technical Drafts": "LiSettings",
+  "Workspace/Project Archive": "LiArchive",
+  "Workspace/Technical Drafts": "LiDraftingCompass",
   "Workspace/Workbench": "BoBxWrench"
 }
