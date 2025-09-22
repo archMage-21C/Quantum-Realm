@@ -8,10 +8,13 @@ To use and contribute to this vault, follow the steps below:
 
 ### Prerequisites
 - **Obsidian**: Make sure you have Obsidian installed. You can download it from the [official Obsidian website](https://obsidian.md/).
-![[download-obsidian.gif]]
 
-  - **Git/GitHub**: You must have Git/GitHub desktop client installed. You can download it from the [official website](https://github.com/apps/desktop/).
-![[download-github-desktop.gif]]
+![download-obsidian](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/download-obsidian.gif)
+
+- **Git/GitHub**: You must have Git/GitHub desktop client installed. You can download it from the [official website](https://github.com/apps/desktop/).
+
+![download-github-desktop](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/download-github-desktop.gif)
+
 Or you may follow the instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 ### Setting Up the Vault
@@ -24,11 +27,11 @@ Or you may follow the instructions [here](https://git-scm.com/book/en/v2/Getting
 
 Or,
 
-![[cloning-repo.gif]]
+![cloning-repo](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/cloning-repo.gif)
 
 2. **Open the Vault**: Open Obsidian, then select **Open Folder as Vault** and navigate to the cloned repo directory.
 
-![[open-obsidian-vault.gif]]
+![open-obsidian-vault](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/open-obsidian-vault.gif)
 
 3. **Enjoy the Vault**: You're now ready to explore, study, and contribute to the vault!
 
