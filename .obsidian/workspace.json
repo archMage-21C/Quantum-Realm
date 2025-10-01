@@ -11,22 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich"
-            }
-          },
-          {
-            "id": "8df87b8a16d8c381",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
-                "mode": "source",
+                "file": "Homepage/Sanctum.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -40,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Wave Equation"
+              "title": "Sanctum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +208,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8df87b8a16d8c381",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage/Sanctum.md",
+    "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md",
@@ -236,7 +226,6 @@
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/null.md",
     "Workspace/Workbench/FPGA Architecture & Programming",
     "Workspace/Workbench",
@@ -245,7 +234,6 @@
     "Workspace",
     "Library/Research Papers",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
-    "Homepage/Sanctum.md",
     "README.md",
     "Homepage/Assets/open-obsidian-vault.gif",
     "Homepage/Assets/download-github-desktop.gif",
@@ -265,10 +253,8 @@
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md",
     "or_gatebmp..md",
     "or_gatebmp.md",
-    "Workspace/Workbench/FPGA Architecture & Programming/Resources/xor_gatebmp",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment - 1.md",
     "_Templates/record-knowledge-template.md",
-    "Knowledge Vault/Resource Vault/Report on the Five Most Important Worldwide Economic Failures.md",
     "Workspace/Technical Drafts/Robotics.canvas"
   ]
 }

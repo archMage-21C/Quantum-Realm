@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sanctum",
+      "path": "Homepage/Sanctum.md"
+    },
+    {
+      "basename": "Elements Of Information Theory; 2nd ed. - Thomas, Cover",
+      "path": "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf"
+    },
+    {
       "basename": "The Wave Equation",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Elementary Waves",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md"
-    },
-    {
-      "basename": "Sanctum",
-      "path": "Homepage/Sanctum.md"
     },
     {
       "basename": "README",
