@@ -3,7 +3,6 @@
 This folder is used to store **project-related materials** in an organized manner.  
 It serves as a **long-term archive** for ideas, notes, and project documentation.
 
----
 
 ## What to Store Here
 - Project descriptions and outlines.
@@ -11,7 +10,6 @@ It serves as a **long-term archive** for ideas, notes, and project documentation
 - Final project summaries or reports.
 - Any diagrams, flowcharts, or conceptual drafts (linked, not raw files).
 
----
 
 ## Guidelines
 - Each project should have its **own folder** inside this archive.
@@ -21,7 +19,6 @@ It serves as a **long-term archive** for ideas, notes, and project documentation
   - Timeline & progress.
   - Links to drafts or related notes.
 
----
 
 ## Purpose
 - Keeps a **clear record of projects** over time.
