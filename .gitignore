@@ -1,1 +1,6 @@
+README.md
+CONTRIBUTING.md
+PLUGINS.md
+/Workspace/*
+/Workspace/.* 
 *.pdf
