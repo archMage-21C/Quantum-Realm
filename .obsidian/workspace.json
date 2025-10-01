@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "9a8cd5bfa61caf3b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "92cb347c475f456c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,10 +208,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "92cb347c475f456c",
   "lastOpenFiles": [
+    "Library/Books/Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë.pdf",
     "Homepage/Sanctum.md",
-    "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf",
+    "Library/Scientific Literature/The Quantum Handshake Entanglement, Nonlocality and Transactions- John G Cramer.pdf",
+    "Library/Scientific Literature/Exploring Quantum Foundations with Single Photons- Martin Ringbauer.pdf",
+    "Library/Scientific Literature/Explorations in Quantum Computing- Colin P. Williams.pdf",
+    "Library/Scientific Literature/Elements of Quantum Computing History, Theories and Engineering Applications- Seiki Akama.pdf",
+    "Library/Scientific Literature/Crystal Optics.pdf",
+    "Library/Books/QUANTUM COMPUTING From Linear Algebra to physical realization- Mikio Nakahara & Tetsuo Ohmi.pdf",
+    "Library/Books/Quantum Computing A Short Course from Theory to Experiment; 2nd Edition.pdf",
+    "Library/Books/Quantum Computation and Quantum Information- Nielsen, Chuang.pdf",
+    "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
+    "Workspace/Workbench/README.md",
+    "Workspace/Technical Drafts/README.md",
+    "Workspace/Project Archive/README.md",
+    "Library/Scientific Literature/README.md",
+    "Library/Research Papers/README.md",
+    "Library/Books/README.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
@@ -221,19 +236,11 @@
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md",
-    "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/null.md",
-    "Workspace/Workbench/FPGA Architecture & Programming",
-    "Workspace/Workbench",
-    "Workspace/Technical Drafts",
-    "Workspace/Project Archive",
-    "Workspace",
-    "Library/Research Papers",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
     "README.md",
     "Homepage/Assets/open-obsidian-vault.gif",
     "Homepage/Assets/download-github-desktop.gif",
@@ -245,16 +252,9 @@
     "Homepage/Assets/cloning-repo - Made with Clipchamp.gif",
     "Homepage/Assets/cloning-repo (4).gif",
     "Homepage/Assets/cloning-repo (3).gif",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md",
-    "Workspace/Workbench/FPGA Architecture & Programming/null.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md",
-    "or_gatebmp..md",
-    "or_gatebmp.md",
-    "Workspace/Workbench/FPGA Architecture & Programming/Assignment - 1.md",
-    "_Templates/record-knowledge-template.md",
     "Workspace/Technical Drafts/Robotics.canvas"
   ]
 }

@@ -5,8 +5,8 @@
       "path": "Homepage/Sanctum.md"
     },
     {
-      "basename": "Elements Of Information Theory; 2nd ed. - Thomas, Cover",
-      "path": "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf"
+      "basename": "Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë",
+      "path": "Library/Books/Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë.pdf"
     },
     {
       "basename": "The Wave Equation",
@@ -43,10 +43,6 @@
     {
       "basename": "The Principle of Superposition",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md"
-    },
-    {
-      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
-      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
     },
     {
       "basename": "Relation between Ray & Wave Optics",
