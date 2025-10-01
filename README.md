@@ -4,10 +4,9 @@ Welcome to **Quantum Realm**, an Obsidian vault dedicated to exploring the fasci
 
 This repository is designed as a **knowledge base** where books, research papers, scientific literatures, solved problems, and project drafts come together in one structured vault.
 
----
 
 ## 📖 Table of Contents
-- [Getting Started](#-getting-started)
+- [🚀 Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Setting Up the Vault](#setting-up-the-vault)
 - [📂 Repository Structure](#-repository-structure)
@@ -16,41 +15,40 @@ This repository is designed as a **knowledge base** where books, research papers
 - [📜 Final Notes](#-final-notes)
 - [📜 License](#-license)
 
----
 
 ## 🚀 Getting Started
 
 Follow the steps below to set up and start using this vault.
 
 ### Prerequisites
-- **[Obsidian](https://obsidian.md/)**  
+- **[Obsidian](https://obsidian.md/)**:
   Install Obsidian, the Markdown-based knowledge management tool.  
 
   ![download-obsidian](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/download-obsidian.gif)
 
-- **[GitHub Desktop](https://github.com/apps/desktop/)** or **[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**  
+- **[GitHub Desktop](https://github.com/apps/desktop/)** or **[Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)** :
   Install Git to clone and sync the repository.  
 
   ![download-github-desktop](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/download-github-desktop.gif)
 
----
 
 ### Setting Up the Vault
-1. **Clone the Repo**
+1. **Clone the Repo**: 
    ```bash
    git clone https://github.com/archMage-21C/Quantum-Realm.git
    ```
-   Or use **GitHub Desktop**:
+   Or use **GitHub Desktop**: 
+   
    ![download-github-desktop](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/download-github-desktop.gif)
 
-2. **Open the Vault**
+3. **Open the Vault**: 
 	Launch **Obsidian** → Open **Folder as Vault** → Select the cloned directory.
+
 	![open-obsidian-vault](https://github.com/archMage-21C/Quantum-Realm/blob/main/Homepage/Assets/open-obsidian-vault.gif)
 
-3. **Start Exploring 🎉**
+5. **Start Exploring 🎉**: 
 	You're now ready to explore, study, and contribute to **Quantum Realm**!
 
----
 
 ## 📂 Repository Structure
 
@@ -76,7 +74,6 @@ Quantum-Realm
 	└── Workbench               # Active work and project files
 ```
 
----
 
 ## 🤝 Contributing
 
@@ -84,7 +81,6 @@ Contributions are welcome!
 - To add your knowledge, improve notes, or enhance structure, please follow our contribution guidelines.  
 - See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions.
 
----
 
 ## 🔌 Plugins
 
@@ -92,15 +88,14 @@ This vault is powered by a curated set of Obsidian community plugins to enhance 
 
 For the **full list of plugins** and details, see [PLUGINS.md](./PLUGINS.md).
 
----
 
 ## ⚡ Final Notes
 
 Feel free to explore, modify, and expand the vault! Whether you're just starting your quantum journey or are deep into research, **Quantum Realm** offers an evolving and collaborative space for everyone passionate about quantum computing.
 
----
 
 ## 📜 License
 
 This repository is for **educational** and **research purposes** only.
+
 Please respect copyright and do not upload restricted material.
