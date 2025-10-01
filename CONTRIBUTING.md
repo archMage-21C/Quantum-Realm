@@ -1,12 +1,9 @@
 # 🤝 Contributing to Quantum Realm
 
-Thank you for considering contributing to **Quantum Realm**!  
-This project is a collaborative **Obsidian vault** for exploring quantum computing, physics, and related disciplines.  
+Thank you for considering contributing to **Quantum Realm**! This project is a collaborative **Obsidian vault** for exploring quantum computing, physics, and related disciplines.  
 
-We welcome contributions of notes, summaries, insights, and structural improvements.  
-Please read these guidelines carefully before contributing.
+We welcome contributions of notes, summaries, insights, and structural improvements. Please read these guidelines carefully before contributing.
 
----
 
 ## 📋 Contribution Workflow
 
@@ -40,7 +37,6 @@ Please read these guidelines carefully before contributing.
    * Go to your fork on GitHub and click **New Pull Request**.
    * Provide a clear description of your changes.
 
----
 
 ## 🗂️ Repository Guidelines
 
@@ -51,7 +47,7 @@ Please read these guidelines carefully before contributing.
 
 * **File Naming Conventions**
   * Use clear and descriptive names.
-  * Example: `Notes - Shankar Quantum Mechanics.md` instead of `notes1.md`.
+  * Example: `Postulates of Wave Optics.md` or `Time-Independent Schrodinger Wave Equation` instead of `notes1.md`.
 
 * **Folder Usage**
   * `Library/Books/` → Lists of books.
@@ -61,7 +57,6 @@ Please read these guidelines carefully before contributing.
   * `Workspace/Technical Drafts/` → Work-in-progress drafts.
   * `Workspace/Workbench/` → Solved problems & miscellaneous notes.
 
----
 
 ## 📝 Note-Taking Style
 
@@ -71,23 +66,28 @@ To keep the vault consistent:
   # Title
   ## Section
   ### Subsection
+  
 * Use **lists** for key takeaways.
 * Use **callouts** in Obsidian where helpful:
+  
   > [!note] Key Insight
   > This experiment demonstrates...
-* Cross-link notes with `[[Wiki Links]]` whenever relevant.
+  
+* Cross-link notes with `Wiki Links` whenever relevant.
 
----
 
 ## 🏷️ Tags & Metadata
 
 * Use **tags** at the bottom of notes for categorization:
+  
+  ```bash
   ---
   tags: [QuantumComputing, ResearchPapers, Optics]
   ---
+  ```
+  
 * Keep tags **short and consistent** (camelCase or PascalCase).
 
----
 
 ## 🌟 Contribution Ideas
 
@@ -99,7 +99,6 @@ Not sure where to start?
 * Improve navigation with better cross-linking.
 * Add diagrams, derivations, or insights from lectures.
 
----
 
 ## 🙏 Code of Conduct
 
@@ -107,7 +106,6 @@ Not sure where to start?
 * Keep discussions academic and professional.
 * Credit authors and sources when summarizing their work.
 
----
 
 ## 📬 Getting Help
 
@@ -116,6 +114,5 @@ If you have questions:
 * Open an **Issue** in the repository.
 * Start a discussion in GitHub Discussions (if enabled).
 
----
 
 ✨ Thank you for helping build the **Quantum Realm**! Together, we can map the quantum universe.
