@@ -1,9 +1,6 @@
 # 📚 Books
 
-This folder contains **lists of books** I have read, am reading, or plan to read.  
-Only bibliographic details are included — not the actual files.
-
----
+This folder contains **lists of books** I have read, am reading, or plan to read. Only bibliographic details are included — not the actual files.
 
 ## Categories
 
@@ -19,8 +16,6 @@ Only bibliographic details are included — not the actual files.
 
 ### 🔹 Optics & Photonics
 - *Fundamentals of Photonics; 3rd edition* — B E A Saleh and M C Teich.pdf
-
----
 
 ## Usage Notes
 - This folder acts as a **reading log + index** of books.
