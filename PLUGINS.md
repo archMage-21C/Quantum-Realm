@@ -3,7 +3,6 @@
 This vault leverages several community plugins to enhance productivity, visualization, and knowledge management.  
 Below is the curated list of plugins integrated into **Quantum Realm**:
 
----
 
 ## 📚 Productivity & Note Management
 - **better-export-pdf** – Export notes to PDF with customizable formatting.  
@@ -21,7 +20,6 @@ Below is the curated list of plugins integrated into **Quantum Realm**:
 - **update-time-on-edit** – Auto-update timestamps when editing a note.  
 - **url-into-selection** – Insert URLs directly into your selected text.  
 
----
 
 ## 🎨 Visuals & Layout
 - **advanced-canvas** – Create and manage complex visualizations and graphs.  
@@ -35,7 +33,6 @@ Below is the curated list of plugins integrated into **Quantum Realm**:
 - **obsidian-style-settings** – Customize the look and feel of your vault.  
 - **tabs** – Tab-based navigation for Obsidian.  
 
----
 
 ## 📊 Research & Technical Tools
 - **etymology-lookup** – Quick access to etymological details for words.  
@@ -49,7 +46,6 @@ Below is the curated list of plugins integrated into **Quantum Realm**:
 - **pdf-plus** – Enhanced PDF handling and reading.  
 - **table-editor-obsidian** – A more powerful table editor.  
 
----
 
 ## 🔧 Repo & Sync Utilities
 - **github-sync** – Sync notes and content with GitHub.  
@@ -59,5 +55,4 @@ Below is the curated list of plugins integrated into **Quantum Realm**:
 - **obsidian-projects** – Manage and track projects and tasks.  
 - **obsidian-reading-time** – Display estimated reading time.  
 
-This list will evolve as the vault grows.  
-If you’d like to suggest additional plugins, please see our [Contributing Guidelines](./CONTRIBUTING.md).
+This list will evolve as the vault grows. If you’d like to suggest additional plugins, please see our [Contributing Guidelines](./CONTRIBUTING.md).
