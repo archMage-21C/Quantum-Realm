@@ -18,7 +18,7 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Homepage/Sanctum.md": "7102a52a33ae64d3c34e041dc4a6456a54b73198c42ffd7887df9f5c878ef7a5",
+    "Homepage/Sanctum.md": "b59c80ddebf8b2dbd3ca5edc3ece78715acb79632b8df9b7e492210d5d9a5e0b",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++.md": "f677c8c711251da4f9a77d9479cda92a89f02630a8daceba3af2dc8298f28f6a",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Introduction to C.md": "0ee14c0a4ebe3f3c8efb5c358cd8a3548c1d68089ee50bc104bef9806e3a3515",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Data Types & Operators in C.md": "23cd301c8e49d6dfcc72967d6f637aeebf92b926fc04f72068358be9f3efd62d",
@@ -45,6 +45,8 @@
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md": "b42acbfffe3de3379ef85a15eef155cb79f2de996a1e3282091268743aa422d8",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md": "e00f82ed75242b25616a95ae798e3915f0c9fc33fb9640213f7989bc006f5c5c",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md": "e00f82ed75242b25616a95ae798e3915f0c9fc33fb9640213f7989bc006f5c5c",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md": "48891f6358d40e35671d84b99b66f850720cee5c087aab61070a25eda206afb9"
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md": "48891f6358d40e35671d84b99b66f850720cee5c087aab61070a25eda206afb9",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md": "4e8987064ccef2613031a5767d762d377d36c6c2d2adec187b10a43f15cd0d86",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md": "e58912898e69e6adfec1d476d719c69c4f66df0f963bb9f953313471d60cea52"
   }
 }

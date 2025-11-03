@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8cd5bfa61caf3b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "92cb347c475f456c",
+            "id": "d6c286f576090a70",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Sanctum"
             }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili"
+            }
+          },
+          {
+            "id": "d55c26a08187a9fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Library/Books/Introduction to Quantum Mechanics; 3rd Edition- Griffiths.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Quantum Mechanics; 3rd Edition- Griffiths"
+            }
+          },
+          {
+            "id": "e1992c46e9a02803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2. Dirac Notation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
+                "file": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich"
+              "title": "Outline of Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili"
             }
           },
           {
@@ -107,8 +156,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,26 +256,28 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "92cb347c475f456c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Library/Books/Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë.pdf",
+    "Library/Books/Introduction to Quantum Mechanics; 3rd Edition- Griffiths.pdf",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md",
+    "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf",
     "Homepage/Sanctum.md",
-    "Library/Scientific Literature/The Quantum Handshake Entanglement, Nonlocality and Transactions- John G Cramer.pdf",
-    "Library/Scientific Literature/Exploring Quantum Foundations with Single Photons- Martin Ringbauer.pdf",
-    "Library/Scientific Literature/Explorations in Quantum Computing- Colin P. Williams.pdf",
-    "Library/Scientific Literature/Elements of Quantum Computing History, Theories and Engineering Applications- Seiki Akama.pdf",
-    "Library/Scientific Literature/Crystal Optics.pdf",
-    "Library/Books/QUANTUM COMPUTING From Linear Algebra to physical realization- Mikio Nakahara & Tetsuo Ohmi.pdf",
-    "Library/Books/Quantum Computing A Short Course from Theory to Experiment; 2nd Edition.pdf",
+    "Library/Books/Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë.pdf",
     "Library/Books/Quantum Computation and Quantum Information- Nielsen, Chuang.pdf",
+    "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf",
     "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
+    "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf",
+    "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf",
+    "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-I.pdf",
+    "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-II.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Workspace/Workbench/README.md",
     "Workspace/Technical Drafts/README.md",
     "Workspace/Project Archive/README.md",
     "Library/Scientific Literature/README.md",
     "Library/Research Papers/README.md",
     "Library/Books/README.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md",
@@ -253,8 +303,6 @@
     "Homepage/Assets/cloning-repo (4).gif",
     "Homepage/Assets/cloning-repo (3).gif",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md",
-    "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md",
     "Workspace/Technical Drafts/Robotics.canvas"
   ]
 }
