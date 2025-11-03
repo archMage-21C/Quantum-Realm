@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md",
-                "mode": "preview",
+                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Dirac Notation"
+              "title": "Young's Double Slit Experiment"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +92,7 @@
       {
         "id": "46775e108f1892ce",
         "type": "tabs",
-        "dimension": 56.585365853658544,
+        "dimension": 56.58536585365853,
         "children": [
           {
             "id": "3bfaef2f4b880297",
@@ -129,7 +129,7 @@
       {
         "id": "0c1e4f6e30b16f81",
         "type": "tabs",
-        "dimension": 43.414634146341456,
+        "dimension": 43.41463414634146,
         "children": [
           {
             "id": "e629ff29632a8b2c",
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf",
+                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili"
+              "title": "Outline of Young's Double Slit Experiment"
             }
           },
           {
@@ -256,13 +256,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e1992c46e9a02803",
   "lastOpenFiles": [
-    "Library/Books/Introduction to Quantum Mechanics; 3rd Edition- Griffiths.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Overview of Ray Optics.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md",
+    "Homepage/Sanctum.md",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md",
     "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf",
-    "Homepage/Sanctum.md",
+    "Library/Books/Introduction to Quantum Mechanics; 3rd Edition- Griffiths.pdf",
     "Library/Books/Quantum Mechanics; Vol. I, II and III; 2nd ed.- Cohen-Tannoudji, Diu and Laloë.pdf",
     "Library/Books/Quantum Computation and Quantum Information- Nielsen, Chuang.pdf",
     "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf",
@@ -271,25 +285,13 @@
     "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf",
     "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-I.pdf",
     "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-II.pdf",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Workspace/Workbench/README.md",
     "Workspace/Technical Drafts/README.md",
     "Workspace/Project Archive/README.md",
     "Library/Scientific Literature/README.md",
     "Library/Research Papers/README.md",
     "Library/Books/README.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Postulates of Ray Optics.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/null.md",
     "README.md",
     "Homepage/Assets/open-obsidian-vault.gif",
@@ -302,7 +304,6 @@
     "Homepage/Assets/cloning-repo - Made with Clipchamp.gif",
     "Homepage/Assets/cloning-repo (4).gif",
     "Homepage/Assets/cloning-repo (3).gif",
-    "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md",
     "Workspace/Technical Drafts/Robotics.canvas"
   ]
 }

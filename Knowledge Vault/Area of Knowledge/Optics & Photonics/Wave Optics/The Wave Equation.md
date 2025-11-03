@@ -1,7 +1,7 @@
 ---
 tags:
 date-created: 2025-09-21T21:06
-last-updated: 2025-09-21T23:49
+last-updated: 2025-11-03T18:57
 ---
 # **The Wave Equation**
 ---
@@ -46,20 +46,3 @@ $$
 
 
 This is the central equation of wave optics. It describes how any optical wave disturbance $u$ evolves in space and time as it propagates through a medium with wave speed $c$.
-### <u>Key Concepts</u>
-- Explanation of the key concepts of this topic.
-
-
-# :LiListFilter: Highlights
----
-### <u>Key Takeaways</u>
-- Key takeaways from this note.
-
-### <u>Important Dates</u>
-- List of important dates (if applicable).
-
-### <u>Formulas & Equations</u>
-- List of important formulas (if applicable).
-
-### <u>Graphs & Charts</u>
-- List of important graphs (if applicable).

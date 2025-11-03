@@ -1,13 +1,8 @@
 ---
 tags:
 date-created: 2025-09-03T20:02
-last-updated: 2025-09-03T20:03
+last-updated: 2025-11-03T18:56
 ---
-# :LiList: Table of Contents
----
-
-
-
 # Topic Header
 ---
 ### The Core Idea: Simplifying Ray Tracing
@@ -59,18 +54,3 @@ $$ \mathbf{M}_{\text{total}} = \mathbf{M}_N \cdots \mathbf{M}_2 \mathbf{M}_1 $$
 For example, a system consisting of a thin lens (focal length f1​) followed by free space (distance d) and then another thin lens (focal length f2​) would have the total matrix: $$ \mathbf{M}_{\text{total}} = \begin{pmatrix} 1 & 0 \ -1/f_2 & 1 \end{pmatrix} \begin{pmatrix} 1 & d \ 0 & 1 \end{pmatrix} \begin{pmatrix} 1 & 0 \ -1/f_1 & 1 \end{pmatrix} $$
 
 This is a powerful method for designing and analyzing a wide range of optical instruments, from telescopes to laser cavities.
-
-
-# :LiListFilter: Highlights
----
-### <u>Key Takeaways</u>
-- Key takeaways from this note.
-
-### <u>Important Dates</u>
-- List of important dates (if applicable).
-
-### <u>Formulas & Equations</u>
-- List of important formulas (if applicable).
-
-### <u>Graphs & Charts</u>
-- List of important graphs (if applicable).

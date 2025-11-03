@@ -4,15 +4,13 @@ tags:
   - optics
   - ray-optics
 date-created: 2025-08-20T23:17
-last-updated: 2025-09-03T10:40
+last-updated: 2025-11-03T18:56
 ---
-# :LiList: Overview
----
+# Overview
 ### Unit I: Ray Optics
 
 **Ray Optics** provides the essential foundation for understanding how light behaves, while it may seem like a purely classical topic, mastering ray optics is crucial because the intuition and principles developed here are directly applied to the design and function of components used in quantum photonics.
 
----
 ### Part 1: Core Principles and Foundations
 
 The first section covers the fundamental postulates of ray optics and the laws derived from them. The key idea is that light travels in straight lines until it encounters a boundary or a medium with a varying refractive index.
@@ -27,8 +25,6 @@ The first section covers the fundamental postulates of ray optics and the laws d
 
 - **Total Internal Reflection (TIR):** A critical phenomenon that occurs when light travels from a denser medium to a less dense one at an angle greater than the critical angle. This is the operating principle behind optical fibers and waveguides.
 
-
----
 ### Part 2: Optical Components and Systems
 
 This section applies the fundamental laws to common optical devices. The practical skills required for designing and analyzing simple optical setups can be developed through here.
@@ -40,7 +36,6 @@ This section applies the fundamental laws to common optical devices. The practic
 
 - **Graded-Index (GRIN) Optics:** This topic moves beyond homogeneous media. Here, the refractive index is a function of position, causing rays to follow curved paths. An understanding of how GRIN lenses and fibers can focus light without traditional curved surfaces can be developed here.  
 
----
 ### Part 3: Why Ray Optics is Critical for Quantum Computing
 
 In Quantum Communication and Sensing, the concepts in ray optics, while classical, have direct quantum parallels.

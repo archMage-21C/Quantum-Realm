@@ -1,3 +1,7 @@
+---
+date-created: 2025-11-03T18:58
+last-updated: 2025-11-03T18:58
+---
 # 📚 Books
 
 This folder contains **lists of books** I have read, am reading, or plan to read. Only bibliographic details are included — not the actual files.
