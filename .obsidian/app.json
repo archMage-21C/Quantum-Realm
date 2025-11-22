@@ -104,7 +104,10 @@
     "ABCD",
     "TIR",
     "Testbench",
-    "Simulation "
+    "Simulation ",
+    "taking ",
+    "Phasor",
+    "Phasors"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,

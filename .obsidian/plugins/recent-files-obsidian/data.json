@@ -1,52 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Young's Double Slit Experiment",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md"
+      "basename": "2. Harmonic Waves",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md"
+    },
+    {
+      "basename": "1. Wave Functions & Hilbert Space",
+      "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md"
+    },
+    {
+      "basename": "3. Operators in Quantum Mechanics",
+      "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/3. Operators in Quantum Mechanics.md"
+    },
+    {
+      "basename": "2. Dirac Notation",
+      "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md"
+    },
+    {
+      "basename": "Fundamentals of Optics; 4th Edition- Jenkins & White",
+      "path": "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf"
+    },
+    {
+      "basename": "Sanctum",
+      "path": "Homepage/Sanctum.md"
+    },
+    {
+      "basename": "Optics; 5th Edition- Eugene Hecht",
+      "path": "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf"
+    },
+    {
+      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
+      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
     },
     {
       "basename": "The Wave Equation",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md"
     },
     {
-      "basename": "The Principle of Superposition",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md"
+      "basename": "Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili",
+      "path": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf"
     },
     {
-      "basename": "Temporal & Spacial Coherence",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md"
-    },
-    {
-      "basename": "Single Slit Diffraction",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md"
-    },
-    {
-      "basename": "Relation between Ray & Wave Optics",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md"
-    },
-    {
-      "basename": "Postulates of Wave Optics",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md"
-    },
-    {
-      "basename": "Paraxial Waves",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md"
-    },
-    {
-      "basename": "Michelson's Interferometer",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md"
-    },
-    {
-      "basename": "Interference of Light",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md"
-    },
-    {
-      "basename": "Elementary Waves",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md"
-    },
-    {
-      "basename": "Complex Representation of Wave Equation",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md"
+      "basename": "Dirac delta function",
+      "path": "Workspace/Workbench/Dirac delta function.md"
     },
     {
       "basename": "Postulates of Ray Optics",
@@ -59,22 +55,6 @@
     {
       "basename": "Matrix Optics",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Ray Optics/Matrix Optics.md"
-    },
-    {
-      "basename": "2. Dirac Notation",
-      "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md"
-    },
-    {
-      "basename": "Sanctum",
-      "path": "Homepage/Sanctum.md"
-    },
-    {
-      "basename": "1. Wave Functions & Hilbert Space",
-      "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md"
-    },
-    {
-      "basename": "Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili",
-      "path": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf"
     },
     {
       "basename": "Introduction to Quantum Mechanics; 3rd Edition- Griffiths",
@@ -91,18 +71,6 @@
     {
       "basename": "Elements Of Information Theory; 2nd ed. - Thomas, Cover",
       "path": "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf"
-    },
-    {
-      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
-      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
-    },
-    {
-      "basename": "Optics; 5th Edition- Eugene Hecht",
-      "path": "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf"
-    },
-    {
-      "basename": "Fundamentals of Optics; 4th Edition- Jenkins & White",
-      "path": "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf"
     },
     {
       "basename": "README",

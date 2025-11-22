@@ -18,7 +18,7 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Homepage/Sanctum.md": "b59c80ddebf8b2dbd3ca5edc3ece78715acb79632b8df9b7e492210d5d9a5e0b",
+    "Homepage/Sanctum.md": "ba759fbb8c575584cc9474e9c0f5593a72e9f81f4f336d2d550d2a8419b12815",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++.md": "f677c8c711251da4f9a77d9479cda92a89f02630a8daceba3af2dc8298f28f6a",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Introduction to C.md": "0ee14c0a4ebe3f3c8efb5c358cd8a3548c1d68089ee50bc104bef9806e3a3515",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Data Types & Operators in C.md": "23cd301c8e49d6dfcc72967d6f637aeebf92b926fc04f72068358be9f3efd62d",
@@ -34,20 +34,13 @@
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md": "e5fa8928ae3a73d6f1781efb691d0a1d72df3b36f6ebda408d5ee55b78cf555f",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md": "2d6ae08f3ea543a9ca82fc1f4a5bddbc3b4f46c4b2082a76b3c4650cf897a970",
     "README.md": "b19968a1d7fdcdf50e43bff72503d2b1453d9dba92db3efcd7979ad94a6213e5",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md": "d32a0f618094744af0f6b238dd42ca94bb568560e989c0722c0e9d906a6b7aaa",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md": "02937f43487ed94b3364aa29deba1d30b71638f199ac6fcd7523d1fcb0eda3d1",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Elementary Waves.md": "2964ca7704cd3bbe2b9d30773a42dbd9f21486795723d3d2265aec6403e57dc8",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md": "1dbd8818511a4fb1a29aaf3138c4822d27d4fb66a77a4800d2f86f5d4380a45e",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Paraxial Waves.md": "035a22753cffbb176bcc0d6a97b406a1563cb82df14a4eb8c30d1b568196daa1",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Relation between Ray & Wave Optics.md": "3c2019371b0bd9c733b59f1b08862436af01cdc464f006536ce937c5f56cc68b",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md": "f76e06b33654a2b54705d5791dcb86ec0ab91e237957e984f1f85b0ed2013aa7",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md": "c4b44e51f536db7ea8e48df96cbc7689ef194cf4a6edcf7ff6c0adf555d089c6",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md": "b42acbfffe3de3379ef85a15eef155cb79f2de996a1e3282091268743aa422d8",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Single Slit Diffraction.md": "e00f82ed75242b25616a95ae798e3915f0c9fc33fb9640213f7989bc006f5c5c",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md": "e00f82ed75242b25616a95ae798e3915f0c9fc33fb9640213f7989bc006f5c5c",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Temporal & Spacial Coherence.md": "48891f6358d40e35671d84b99b66f850720cee5c087aab61070a25eda206afb9",
-    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md": "04e0252954b0d9a1cd7175b080ec66d4756a33c68f22c7a1b72f9c03132daa5b",
-    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md": "a804d1b5fdabd515019b453742ac7972100c8ca621696a9e16f9898c9c348244",
-    "Library/Books/README.md": "a83265a026e64a2d56770909c70dac58ce35311e54f833bf44c34e44d27fca03"
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md": "03afaa19440cf7b4d9717162ca41c16cd944bfc76c5a8bcbf697996793415d03",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md": "0b7d37bfbee748ccc54d399c3aaf46f9284ee7c9298ce912d2fac94756e389c2",
+    "Library/Books/README.md": "a83265a026e64a2d56770909c70dac58ce35311e54f833bf44c34e44d27fca03",
+    "Knowledge Vault/Area of Knowledge/Quantum Mechanics/3. Operators in Quantum Mechanics.md": "8446b0806b6684c5af9b03237a0890335914ad02bd49f64a7d93fffbb922df40",
+    "Workspace/Workbench/Eigen values of Operators.md": "b9e38deb07a8aab87b11712680a0656c861039f826336228b992feb52287f437",
+    "Workspace/Workbench/Dirac delta function.md": "2c7d03b3dd58bb5a51bd7bc9e58811658cf51ecf6661bc797ca00dd078dc7ee9",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md": "7ad0432bd1803fa4eaa91dbc76bfde8ebd76f34c8225b5e37382fb902b7dc490"
   }
 }

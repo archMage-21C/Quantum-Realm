@@ -1,6 +1,6 @@
 ---
 banner: "![[89875190_p0_master1200.jpg]]"
-last-updated: 2025-10-31T17:51
+last-updated: 2025-11-03T19:33
 banner_y: 0.496
 ---
 # :LiVault: Knowledge Index
@@ -8,6 +8,9 @@ banner_y: 0.496
 ```tabs
 tab: Optics & Photonics
 tab: Quantum Mechanics
+[[1. Wave Functions & Hilbert Space]]
+
+[[2. Dirac Notation]]
 tab: Quantum Computing
 ```
 
