@@ -107,7 +107,11 @@
     "Simulation ",
     "taking ",
     "Phasor",
-    "Phasors"
+    "Phasors",
+    "phasor",
+    "phasor",
+    "wavefunction",
+    "wavenumber"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,

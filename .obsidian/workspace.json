@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md",
+                "file": "Workspace/Workbench/Helmholtz Equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Harmonic Waves"
+              "title": "Helmholtz Equation"
             }
           }
         ]
@@ -88,13 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md",
+                "file": "Workspace/Workbench/Helmholtz Equation.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Harmonic Waves"
+              "title": "Outline of Helmholtz Equation"
             }
           },
           {
@@ -209,22 +209,25 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. Harmonic Waves.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/3. The Superposition Principle.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/1. Transverse Wave.md",
+    "Workspace/Workbench/Helmholtz Equation.md",
+    "Workspace/Workbench/Dirac delta function.md",
+    "Homepage/Sanctum.md",
+    "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/4. Elementary Waves.md",
+    "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf",
+    "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md",
+    "2. Harmonic Waves.pdf",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/3. Operators in Quantum Mechanics.md",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md",
-    "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf",
-    "Homepage/Sanctum.md",
-    "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf",
-    "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Complex Representation of Wave Equation.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Postulates of Wave Optics.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Interference of Light.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Michelson's Interferometer.md",
     "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf",
-    "Workspace/Workbench/Dirac delta function.md",
     "Workspace/Workbench/Eigen values of Operators.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/Young's Double Slit Experiment.md",
     "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Principle of Superposition.md",
@@ -241,10 +244,7 @@
     "Library/Books/Quantum Computation and Quantum Information- Nielsen, Chuang.pdf",
     "Library/Books/Elements Of Information Theory; 2nd ed. - Thomas, Cover.pdf",
     "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-I.pdf",
-    "Knowledge Vault/Resource Vault/MIT OCW/MIT Quantum Physics-II.pdf",
     "Workspace/Workbench/README.md",
-    "Workspace/Technical Drafts/README.md",
-    "Workspace/Project Archive/README.md",
     "Homepage/Assets/open-obsidian-vault.gif",
     "Homepage/Assets/download-github-desktop.gif",
     "Homepage/Assets/download-obsidian.gif",

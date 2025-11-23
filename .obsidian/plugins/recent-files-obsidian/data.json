@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Helmholtz Equation",
+      "path": "Workspace/Workbench/Helmholtz Equation.md"
+    },
+    {
+      "basename": "3. The Superposition Principle",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/3. The Superposition Principle.md"
+    },
+    {
       "basename": "2. Harmonic Waves",
       "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md"
+    },
+    {
+      "basename": "1. Transverse Wave",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/1. Transverse Wave.md"
+    },
+    {
+      "basename": "Sanctum",
+      "path": "Homepage/Sanctum.md"
+    },
+    {
+      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
+      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
+    },
+    {
+      "basename": "4. Elementary Waves",
+      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/4. Elementary Waves.md"
+    },
+    {
+      "basename": "Optics; 5th Edition- Eugene Hecht",
+      "path": "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf"
+    },
+    {
+      "basename": "Fundamentals of Optics; 4th Edition- Jenkins & White",
+      "path": "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf"
     },
     {
       "basename": "1. Wave Functions & Hilbert Space",
@@ -17,32 +49,8 @@
       "path": "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md"
     },
     {
-      "basename": "Fundamentals of Optics; 4th Edition- Jenkins & White",
-      "path": "Library/Books/Fundamentals of Optics; 4th Edition- Jenkins & White.pdf"
-    },
-    {
-      "basename": "Sanctum",
-      "path": "Homepage/Sanctum.md"
-    },
-    {
-      "basename": "Optics; 5th Edition- Eugene Hecht",
-      "path": "Library/Books/Optics; 5th Edition- Eugene Hecht.pdf"
-    },
-    {
-      "basename": "Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich",
-      "path": "Library/Books/Fundamentals of Photonics; 3rd edition- B E A Saleh and M C Teich.pdf"
-    },
-    {
-      "basename": "The Wave Equation",
-      "path": "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md"
-    },
-    {
       "basename": "Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili",
       "path": "Library/Books/Quantum Mechanics_ Concepts and Applications; 2nd Edition- Nouredine Zettili.pdf"
-    },
-    {
-      "basename": "Dirac delta function",
-      "path": "Workspace/Workbench/Dirac delta function.md"
     },
     {
       "basename": "Postulates of Ray Optics",

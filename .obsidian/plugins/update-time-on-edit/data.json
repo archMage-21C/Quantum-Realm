@@ -18,7 +18,7 @@
   ],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "Homepage/Sanctum.md": "ba759fbb8c575584cc9474e9c0f5593a72e9f81f4f336d2d550d2a8419b12815",
+    "Homepage/Sanctum.md": "79c01fa144d562f65c8620f39c5dc38e85df31b01cf7b2d1c0b3a72bff52a7be",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++.md": "f677c8c711251da4f9a77d9479cda92a89f02630a8daceba3af2dc8298f28f6a",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Introduction to C.md": "0ee14c0a4ebe3f3c8efb5c358cd8a3548c1d68089ee50bc104bef9806e3a3515",
     "Knowledge Vault/Area of Knowledge/Engineering/Computer Science & Engineering/Programming Languages/C++/Data Types & Operators in C.md": "23cd301c8e49d6dfcc72967d6f637aeebf92b926fc04f72068358be9f3efd62d",
@@ -34,13 +34,15 @@
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-1.md": "e5fa8928ae3a73d6f1781efb691d0a1d72df3b36f6ebda408d5ee55b78cf555f",
     "Workspace/Workbench/FPGA Architecture & Programming/Assignment-2.md": "2d6ae08f3ea543a9ca82fc1f4a5bddbc3b4f46c4b2082a76b3c4650cf897a970",
     "README.md": "b19968a1d7fdcdf50e43bff72503d2b1453d9dba92db3efcd7979ad94a6213e5",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/The Wave Equation.md": "02937f43487ed94b3364aa29deba1d30b71638f199ac6fcd7523d1fcb0eda3d1",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/1. Wave Functions & Hilbert Space.md": "03afaa19440cf7b4d9717162ca41c16cd944bfc76c5a8bcbf697996793415d03",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/2. Dirac Notation.md": "0b7d37bfbee748ccc54d399c3aaf46f9284ee7c9298ce912d2fac94756e389c2",
     "Library/Books/README.md": "a83265a026e64a2d56770909c70dac58ce35311e54f833bf44c34e44d27fca03",
     "Knowledge Vault/Area of Knowledge/Quantum Mechanics/3. Operators in Quantum Mechanics.md": "8446b0806b6684c5af9b03237a0890335914ad02bd49f64a7d93fffbb922df40",
     "Workspace/Workbench/Eigen values of Operators.md": "b9e38deb07a8aab87b11712680a0656c861039f826336228b992feb52287f437",
-    "Workspace/Workbench/Dirac delta function.md": "2c7d03b3dd58bb5a51bd7bc9e58811658cf51ecf6661bc797ca00dd078dc7ee9",
-    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md": "7ad0432bd1803fa4eaa91dbc76bfde8ebd76f34c8225b5e37382fb902b7dc490"
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/2. Harmonic Waves.md": "939c0d0ea5e67d54190a44938b1c41d3455b0d1be044c225e53c477d9559cb12",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/3. The Superposition Principle.md": "e9013ee622b517514de474249a4a8c8ff748a047c7f62c2934f5bc03cf9f29b5",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/4. Elementary Waves.md": "3dec473a3e89e0cae0e3a581acc4c8bf2cbe5b6d8c33c8afc39fc032f21406b1",
+    "Knowledge Vault/Area of Knowledge/Optics & Photonics/Wave Optics/1. Transverse Wave.md": "02937f43487ed94b3364aa29deba1d30b71638f199ac6fcd7523d1fcb0eda3d1",
+    "Workspace/Workbench/Helmholtz Equation.md": "fbe7f052c42eb01e455958e68cf9b15c8562174b756e4d9cfbffa3ad577b30d4"
   }
 }

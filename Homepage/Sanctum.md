@@ -1,12 +1,13 @@
 ---
 banner: "![[89875190_p0_master1200.jpg]]"
-last-updated: 2025-11-03T19:33
+last-updated: 2025-11-22T18:25
 banner_y: 0.496
 ---
 # :LiVault: Knowledge Index
 ---
 ```tabs
 tab: Optics & Photonics
+[[2. Harmonic Waves]]
 tab: Quantum Mechanics
 [[1. Wave Functions & Hilbert Space]]
 
